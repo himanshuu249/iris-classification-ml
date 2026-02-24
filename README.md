@@ -46,4 +46,17 @@ Accuracy: 100%
 ---
 
 ## ▶️ How to Run
+
 1. Clone this repository:
+   git clone https://github.com/himanshuu249/iris-classification-ml.git
+
+2. Navigate into the project folder:
+   cd iris-classification-ml
+
+3. Install dependencies:
+   pip install -r requirements.txt
+
+4. Open the notebook:
+   iris_classification.ipynb
+
+5. Run all cells to train and evaluate the model.
