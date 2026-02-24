@@ -30,9 +30,7 @@ Target Classes:
 ---
 
 ## 📈 Model Performance
-(Add your actual accuracy here after running the notebook)
 
-Example:
 Accuracy: 100%
 
 ---
